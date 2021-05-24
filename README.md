@@ -1,18 +1,22 @@
-### Football managment app
+## Food ordering app
 
 ### Overview
-This was my final project for Spark bootcamp test. I was given the design for this app (in .jpegs) to reproduce it, everything was made with custom CSS.  
-This was real a pleasure to work with, coming up with creative solutions especially because this was my first bigger project with Vue.
+Demo project for learning **REACT**. Also using firebase to send orders, and for fetching and storing meals.  
+These types off apps are popular today, so it's cool to see how they are working, atleast with barebones functionalities. 
 
-### INFO
-- I used all common features of Vue: **VueX (although this can be omitted I wanted to practice using vuex store), Vue Router, Lists, etc...** 
-- Grid system was the most difficult part, I used Grid CSS and attaching different classes for positions  
-- I also constructed **custom directive for closing elements when clicking outside of them.** (especially proud of this lol)  
-- Five star rating system was custom made  
+## Practicing
+- React Context
+- React Router
+- Animating components
+- Sending and fetching data
+- Validating user inputs 
 
+## Todos
+- Add more restaurants
+- Admin page for editing meals
 
-**How to start the app**
+## How to start the app
 
 Download the code & run **npm install** to install dependencies before starting the app.
 
-Then invoke starting script: **npm run serve**
+Then invoke starting script: **npm start**
